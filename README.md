@@ -13,7 +13,7 @@ I was inspired to do this project because of interesting in hardware tinkering m
 The main goal was to create the stable, memory safe and multitasking app for DHT11 sensor working with 7-segment display.
 For safely data transferring between the sensor and controller I'm using queues and tasks (via FreeRTOS).
 
-### The library for controlling the 7-segment display was developed by me.
+### The library for controlling the 7-segment display was also developed by me.
 
 https://github.com/Majkii2006/SevSegDisplayDriver
 
