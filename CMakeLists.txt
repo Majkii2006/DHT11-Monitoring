@@ -2,4 +2,4 @@ cmake_minimum_required(VERSION 3.22)
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
-project(010_7SegLibrary)
+project(011_Temp_Humid_Sensor)
