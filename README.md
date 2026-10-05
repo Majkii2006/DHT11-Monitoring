@@ -1,6 +1,8 @@
 
 <p align="center">
-  DHT11 Monitor on ESP32
+  
+  # DHT11 Monitor on ESP32
+  
 </p>
 
 ---
