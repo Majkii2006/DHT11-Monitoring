@@ -1,9 +1,9 @@
 
-<p align="center">
+
   
   # DHT11 Monitor on ESP32
   
-</p>
+
 
 ---
 
@@ -32,7 +32,8 @@ The main goal was to create the stable, memory safe and multitasking app for DHT
 
 - **Build system:** CMake
 
-- **Other Dependencies:** ESP-IDF by Espressif, 7-Segment-Library Driver (which was developed by me -> https://github.com/Majkii2006/SevSegDisplayDriver)
+- **Other Dependencies:** ESP-IDF by Espressif,
+                          7-Segment-Library Driver (which was developed by me -> https://github.com/Majkii2006/SevSegDisplayDriver)
 
 ---
 
