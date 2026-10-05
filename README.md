@@ -1,8 +1,6 @@
+
 <p align="center">
-  <img src="assets/Logo.png" alt="Logo" width=20%>
-</p>
-<p align="center">
-  Cache Factory made with C++20.
+  DHT11 Monitor on ESP32
 </p>
 
 ---
