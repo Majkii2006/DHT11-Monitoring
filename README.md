@@ -16,10 +16,10 @@ The main goal was to create the stable, memory safe and multitasking app for DHT
 
 ## Showcase
 
-<p align="left">
-  <img src="assets/1.jpg" alt="Showcase 1">
-  <img src="assets/2.jpg" alt="Showcase 2">
-</p>
+
+![Showcase 1](assets/1.jpg)
+
+
 
 ---
 
