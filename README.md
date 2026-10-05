@@ -17,7 +17,7 @@ The main goal was to create the stable, memory safe and multitasking app for DHT
 ## Showcase
 
 
-<img src="assets/2.jpg" width="49%" /> <img src="assets/1.jpg" width="49%" />
+<img src="assets/1.jpg" width="49%" /> <img src="assets/2.jpg" width="49%" />
 
 
 
