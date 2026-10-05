@@ -29,6 +29,13 @@ https://github.com/Majkii2006/SevSegDisplayDriver
 
 ---
 
+---
+
+The library for controlling the 7-segment display was developed by me.
+https://github.com/Majkii2006/SevSegDisplayDriver
+
+---
+
 ## Requirements
 
 - **OS:** Linux  
