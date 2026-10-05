@@ -26,7 +26,7 @@ https://github.com/Majkii2006/SevSegDisplayDriver
 
 <img src="assets/1.jpg" width="49%" /> <img src="assets/2.jpg" width="49%" />
 
-[![DHT11 Temp and Humid Monitoring Station on ESP32](https://youtube.com)](https://youtu.be/R9kOajqdzmk)
+![DHT11 Temp and Humid Monitoring Station on ESP32](https://youtube.com)](https://youtu.be/R9kOajqdzmk)
 
 ---
 
