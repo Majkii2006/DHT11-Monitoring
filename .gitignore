@@ -1,0 +1,16 @@
+build/
+sdkconfig.old
+sdkconfig.defaults.bk
+
+managed_components/
+dependencies.lock
+
+compile_commands.json
+.ninja_deps
+.ninja_log
+.vscode/
+.clangd/
+
+*.log
+.DS_Store
+Thumbs.db
