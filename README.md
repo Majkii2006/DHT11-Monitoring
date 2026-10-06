@@ -51,7 +51,7 @@ Video on Youtube -> https://youtu.be/R9kOajqdzmk
 ```bash
 git clone https://github.com/Majkii2006/DHT11-Monitoring && cd DHT-11-Monitoring
 ```
-Then, activate the SDK from Espressif:
+Then, activate the SDK from Espressif in your working directory:
 
 ```bash
 . $HOME/esp-idf/esp/export.sh
