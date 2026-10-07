@@ -10,7 +10,7 @@
 ## Design Choices and Goals
 
 I was inspired to do this project because of interesting in hardware tinkering mainly from software level.
-The main goal was to create the stable, memory safe and multitasking app for DHT11 sensor working with 7-segment display.
+The main goal was to create the stable, memory safe and concurrent app for DHT11 sensor working with 7-segment display.
 For safely data transferring between the sensor and controller I'm using queues and tasks (via FreeRTOS).
 
 ### The library for controlling the 7-segment display was also developed by me.
